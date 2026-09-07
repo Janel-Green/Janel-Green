@@ -40,3 +40,4 @@ Creating a basic HTML webpage while using the GitHub workflow (branching --> com
 ## Contact Me📩
 - 📤Emails: School --> green3jj@dukes.jmu.edu / Personal --> Jjewel2005@gmail.com
 - 📞Phone Number: 467-289-9764
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
